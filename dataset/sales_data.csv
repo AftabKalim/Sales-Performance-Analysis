@@ -1,0 +1,317 @@
+OrderDate,Region,Category,Product,Sales,Profit,Quantity
+2023-01-07,West,Technology,Mouse,2800,650,12
+2023-03-15,East,Furniture,Desk,26000,4500,2
+2023-02-04,North,Technology,Laptop,75000,12000,4
+2023-05-09,South,Office Supplies,Notebook,4300,970,21
+2023-01-22,East,Technology,Smartphone,52000,8500,5
+2023-04-18,West,Furniture,Bookshelf,14500,2700,2
+2023-02-20,South,Office Supplies,Printer Paper,6200,1350,24
+2023-06-12,West,Technology,Mouse,3000,700,14
+2023-03-07,North,Technology,Monitor,20500,3800,2
+2023-05-03,East,Technology,Tablet,33000,6000,4
+2023-01-10,South,Technology,Smartphone,50000,8200,4
+2023-04-04,West,Technology,Laptop,74000,12000,4
+2023-02-14,North,Furniture,Desk,26000,4600,2
+2023-06-06,North,Technology,Headphones,9500,2100,7
+2023-03-21,West,Office Supplies,Stapler,3200,750,22
+2023-05-17,South,Office Supplies,Notebook,4300,970,21
+2023-02-08,South,Furniture,Office Chair,16500,3100,4
+2023-04-10,East,Technology,Monitor,22500,4200,3
+2023-01-04,West,Technology,Laptop,68000,10800,3
+2023-06-02,East,Technology,Headphones,9800,2200,8
+2023-03-11,East,Technology,Keyboard,5200,1200,8
+2023-05-05,East,Technology,Smartphone,56000,9700,5
+2023-02-24,South,Office Supplies,Printer Paper,6200,1350,24
+2023-04-24,South,Furniture,Bookshelf,15500,2900,3
+2023-01-18,East,Technology,Tablet,30000,5500,3
+2023-03-25,South,Office Supplies,Stapler,2900,680,19
+2023-06-16,South,Technology,Mouse,2900,680,13
+2023-02-02,East,Furniture,Office Chair,16000,3000,4
+2023-05-11,East,Office Supplies,Notebook,4200,950,20
+2023-04-06,North,Technology,Laptop,78000,12600,4
+2023-01-29,North,Technology,Router,8800,1800,5
+2023-03-02,West,Technology,Router,9200,1900,6
+2023-05-14,South,Technology,Router,9000,1850,5
+2023-02-18,East,Technology,Keyboard,5400,1250,9
+2023-06-09,West,Technology,Keyboard,5600,1300,10
+2023-04-16,South,Technology,Tablet,31000,5700,4
+2023-01-13,North,Office Supplies,Pen Set,3800,850,30
+2023-03-19,East,Office Supplies,Pen Set,4000,900,32
+2023-05-27,West,Office Supplies,Pen Set,4200,950,34
+2023-02-27,South,Technology,Monitor,21500,3950,3
+2023-06-19,North,Furniture,Office Chair,17000,3200,4
+2023-04-21,East,Furniture,Office Table,28500,5000,2
+2023-05-30,West,Furniture,Office Table,29000,5100,2
+2023-01-25,South,Technology,Desktop PC,72000,13000,2
+2023-03-29,North,Technology,Desktop PC,75000,13500,2
+2023-06-22,East,Technology,Desktop PC,78000,14000,3
+2023-02-11,West,Office Supplies,Printer Ink,9800,2200,6
+2023-04-27,South,Office Supplies,Printer Ink,10200,2300,7
+2023-05-19,North,Office Supplies,Printer Ink,10000,2250,6
+2023-03-05,East,Technology,Mouse,2600,620,11
+2023-01-31,West,Technology,Mouse,2700,640,12
+2023-06-27,North,Technology,Mouse,3100,720,15
+2023-07-01,West,Technology,Laptop,74500,12200,4
+2023-07-02,East,Office Supplies,Binder,1500,350,45
+2023-07-03,North,Technology,Mouse,2950,690,13
+2023-07-04,South,Furniture,Office Chair,16800,3150,4
+2023-07-05,West,Technology,Laptop,76000,13000,4
+2023-07-06,East,Technology,Smartphone,54000,9200,5
+2023-07-07,North,Technology,Laptop,75500,12500,4
+2023-07-08,South,Office Supplies,Notebook,4100,920,20
+2023-07-09,West,Technology,Mouse,3050,710,14
+2023-07-10,East,Technology,Laptop,77000,12800,4
+2023-07-11,North,Technology,Monitor,21000,3900,3
+2023-07-12,South,Office Supplies,Printer Paper,6300,1400,25
+2023-07-13,West,Technology,Laptop,73000,11800,4
+2023-07-14,East,Furniture,Desk,26500,4700,2
+2023-07-15,North,Technology,Mouse,3150,730,15
+2023-07-16,South,Technology,Smartphone,51000,8400,4
+2023-07-17,West,Technology,Laptop,75000,12300,4
+2023-07-18,East,Office Supplies,Binder,1600,380,50
+2023-07-19,North,Technology,Mouse,2850,660,12
+2023-07-20,South,Furniture,Office Chair,17200,3300,4
+2023-07-21,West,Technology,Laptop,74000,12100,4
+2023-07-22,East,Technology,Smartphone,53000,8900,5
+2023-07-23,North,Technology,Laptop,76500,12700,4
+2023-07-24,South,Office Supplies,Notebook,4250,940,21
+2023-07-25,West,Technology,Mouse,2900,675,13
+2023-07-26,East,Technology,Laptop,78000,13100,4
+2023-07-27,North,Technology,Monitor,21500,4000,3
+2023-07-28,South,Office Supplies,Printer Paper,6400,1450,26
+2023-07-29,West,Technology,Laptop,72000,11500,4
+2023-07-30,East,Furniture,Desk,27000,4800,2
+2023-07-31,North,Technology,Mouse,3200,740,16
+2023-08-01,South,Technology,Smartphone,52500,8700,4
+2023-08-02,West,Technology,Laptop,74500,12200,4
+2023-08-03,East,Office Supplies,Binder,1550,360,48
+2023-08-04,North,Technology,Mouse,2920,685,13
+2023-08-05,South,Furniture,Office Chair,16900,3180,4
+2023-08-06,West,Technology,Laptop,75500,12900,4
+2023-08-07,East,Technology,Smartphone,55000,9400,5
+2023-08-08,North,Technology,Laptop,76000,12600,4
+2023-08-09,South,Office Supplies,Notebook,4150,930,20
+2023-08-10,West,Technology,Mouse,3080,715,14
+2023-08-11,East,Technology,Laptop,77500,13000,4
+2023-08-12,North,Technology,Monitor,21200,3950,3
+2023-08-13,South,Office Supplies,Printer Paper,6350,1420,25
+2023-08-14,West,Technology,Laptop,73500,11900,4
+2023-08-15,East,Furniture,Desk,26800,4750,2
+2023-08-16,North,Technology,Mouse,3180,735,15
+2023-08-17,South,Technology,Smartphone,51500,8500,4
+2023-08-18,West,Technology,Laptop,74800,12400,4
+2023-08-19,East,Office Supplies,Binder,1620,390,52
+2023-08-20,North,Technology,Mouse,2880,670,12
+2023-08-21,South,Furniture,Office Chair,17300,3350,4
+2023-08-22,West,Technology,Laptop,74200,12200,4
+2023-08-23,East,Technology,Smartphone,53500,9000,5
+2023-08-24,North,Technology,Laptop,76800,12800,4
+2023-08-25,South,Office Supplies,Notebook,4280,950,21
+2023-08-26,West,Technology,Mouse,2920,680,13
+2023-08-27,East,Technology,Laptop,78500,13200,4
+2023-08-28,North,Technology,Monitor,21800,4050,3
+2023-08-29,South,Office Supplies,Printer Paper,6450,1480,26
+2023-08-30,West,Technology,Laptop,72500,11700,4
+2023-08-31,East,Furniture,Desk,27200,4900,2
+2023-09-01,North,Technology,Mouse,3250,750,16
+2023-09-02,South,Technology,Smartphone,52800,8800,4
+2023-09-03,West,Technology,Laptop,74300,12100,4
+2023-09-04,East,Office Supplies,Binder,1580,370,47
+2023-09-05,North,Technology,Mouse,2940,690,13
+2023-09-06,South,Furniture,Office Chair,17000,3200,4
+2023-09-07,West,Technology,Laptop,75800,13000,4
+2023-09-08,East,Technology,Smartphone,55500,9500,5
+2023-09-09,North,Technology,Laptop,76200,12700,4
+2023-09-10,South,Office Supplies,Notebook,4180,940,20
+2023-09-11,West,Technology,Mouse,3100,720,14
+2023-09-12,East,Technology,Laptop,77800,13100,4
+2023-09-13,North,Technology,Monitor,21300,3980,3
+2023-09-14,South,Office Supplies,Printer Paper,6380,1440,25
+2023-09-15,West,Technology,Laptop,73800,12000,4
+2023-09-16,East,Furniture,Desk,26900,4800,2
+2023-09-17,North,Technology,Mouse,3200,740,15
+2023-09-18,South,Technology,Smartphone,51800,8600,4
+2023-09-19,West,Technology,Laptop,74900,12500,4
+2023-09-20,East,Office Supplies,Binder,1640,400,55
+2023-09-21,North,Technology,Mouse,2900,680,12
+2023-09-22,South,Furniture,Office Chair,17400,3400,4
+2023-09-23,West,Technology,Laptop,74400,12300,4
+2023-09-24,East,Technology,Smartphone,53800,9100,5
+2023-09-25,North,Technology,Laptop,77000,12900,4
+2023-09-26,South,Office Supplies,Notebook,4300,960,21
+2023-09-27,West,Technology,Mouse,2940,685,13
+2023-09-28,East,Technology,Laptop,78800,13300,4
+2023-09-29,North,Technology,Monitor,21900,4100,3
+2023-09-30,South,Office Supplies,Printer Paper,6480,1500,26
+2023-10-01,West,Technology,Laptop,72800,11800,4
+2023-10-02,East,Furniture,Desk,27400,5000,2
+2023-10-03,North,Technology,Mouse,3280,760,16
+2023-10-04,South,Technology,Smartphone,53000,8900,4
+2023-10-05,West,Technology,Laptop,74100,12000,4
+2023-10-06,East,Office Supplies,Binder,1600,380,49
+2023-10-07,North,Technology,Mouse,2960,700,13
+2023-10-08,South,Furniture,Office Chair,17100,3250,4
+2023-10-09,West,Technology,Laptop,76000,13100,4
+2023-10-10,East,Technology,Smartphone,55800,9600,5
+2023-10-11,North,Technology,Laptop,76400,12800,4
+2023-10-12,South,Office Supplies,Notebook,4200,950,20
+2023-10-13,West,Technology,Mouse,3120,730,14
+2023-10-14,East,Technology,Laptop,78000,13200,4
+2023-10-15,North,Technology,Monitor,21400,4000,3
+2023-10-16,South,Office Supplies,Printer Paper,6400,1460,25
+2023-10-17,West,Technology,Laptop,74000,12100,4
+2023-10-18,East,Furniture,Desk,27000,4850,2
+2023-10-19,North,Technology,Mouse,3220,750,15
+2023-10-20,South,Technology,Smartphone,52000,8700,4
+2023-10-21,West,Technology,Laptop,75100,12600,4
+2023-10-22,East,Office Supplies,Binder,1660,410,58
+2023-10-23,North,Technology,Mouse,2920,690,12
+2023-10-24,South,Furniture,Office Chair,17500,3450,4
+2023-10-25,West,Technology,Laptop,74600,12400,4
+2023-10-26,East,Technology,Smartphone,54000,9200,5
+2023-10-27,North,Technology,Laptop,77200,13000,4
+2023-10-28,South,Office Supplies,Notebook,4320,970,21
+2023-10-29,West,Technology,Mouse,2960,690,13
+2023-10-30,East,Technology,Laptop,79000,13400,4
+2023-10-31,North,Technology,Monitor,22000,4150,3
+2023-11-01,South,Office Supplies,Printer Paper,6500,1520,26
+2023-11-02,West,Technology,Laptop,73000,11900,4
+2023-11-03,East,Furniture,Desk,27600,5100,2
+2023-11-04,North,Technology,Mouse,3300,770,16
+2023-11-05,South,Technology,Smartphone,53200,9000,4
+2023-11-06,West,Technology,Laptop,73900,11900,4
+2023-11-07,East,Office Supplies,Binder,1620,390,51
+2023-11-08,North,Technology,Mouse,2980,710,13
+2023-11-09,South,Furniture,Office Chair,17200,3300,4
+2023-11-10,West,Technology,Laptop,76200,13200,4
+2023-11-11,East,Technology,Smartphone,56000,9700,5
+2023-11-12,North,Technology,Laptop,76600,12900,4
+2023-11-13,South,Office Supplies,Notebook,4220,960,20
+2023-11-14,West,Technology,Mouse,3140,740,14
+2023-11-15,East,Technology,Laptop,78200,13300,4
+2023-11-16,North,Technology,Monitor,21500,4050,3
+2023-11-17,South,Office Supplies,Printer Paper,6420,1480,25
+2023-11-18,West,Technology,Laptop,74200,12200,4
+2023-11-19,East,Furniture,Desk,27100,4900,2
+2023-11-20,North,Technology,Mouse,3240,760,15
+2023-11-21,South,Technology,Smartphone,52200,8800,4
+2023-11-22,West,Technology,Laptop,75300,12700,4
+2023-11-23,East,Office Supplies,Binder,1680,420,60
+2023-11-24,North,Technology,Mouse,2940,700,12
+2023-11-25,South,Furniture,Office Chair,17600,3500,4
+2023-11-26,West,Technology,Laptop,74800,12500,4
+2023-11-27,East,Technology,Smartphone,54200,9300,5
+2023-11-28,North,Technology,Laptop,77400,13100,4
+2023-11-29,South,Office Supplies,Notebook,4340,980,21
+2023-11-30,West,Technology,Mouse,2980,695,13
+2023-12-01,East,Technology,Laptop,79200,13500,4
+2023-12-02,North,Technology,Monitor,22100,4200,3
+2023-12-03,South,Office Supplies,Printer Paper,6520,1540,26
+2023-12-04,West,Technology,Laptop,73200,12000,4
+2023-12-05,East,Furniture,Desk,27800,5200,2
+2023-12-06,North,Technology,Mouse,3320,780,16
+2023-12-07,South,Technology,Smartphone,53400,9100,4
+2023-12-08,West,Technology,Laptop,73700,11800,4
+2023-12-09,East,Office Supplies,Binder,1640,400,53
+2023-12-10,North,Technology,Mouse,3000,720,13
+2023-12-11,South,Furniture,Office Chair,17300,3350,4
+2023-12-12,West,Technology,Laptop,76400,13300,4
+2023-12-13,East,Technology,Smartphone,56200,9800,5
+2023-12-14,North,Technology,Laptop,76800,13000,4
+2023-12-15,South,Office Supplies,Notebook,4240,970,20
+2023-12-16,West,Technology,Mouse,3160,750,14
+2023-12-17,East,Technology,Laptop,78400,13400,4
+2023-12-18,North,Technology,Monitor,21600,4100,3
+2023-12-19,South,Office Supplies,Printer Paper,6440,1500,25
+2023-12-20,West,Technology,Laptop,74400,12300,4
+2023-12-21,East,Furniture,Desk,27200,4950,2
+2023-12-22,North,Technology,Mouse,3260,770,15
+2023-12-23,South,Technology,Smartphone,52400,8900,4
+2023-12-24,West,Technology,Laptop,75500,12800,4
+2023-12-25,East,Office Supplies,Binder,1700,430,62
+2023-12-26,North,Technology,Mouse,2960,710,12
+2023-12-27,South,Furniture,Office Chair,17700,3550,4
+2023-12-28,West,Technology,Laptop,75000,12600,4
+2023-12-29,East,Technology,Smartphone,54400,9400,5
+2023-12-30,North,Technology,Laptop,77600,13200,4
+2023-12-31,South,Office Supplies,Notebook,4360,990,21
+2024-01-01,West,Technology,Mouse,3000,700,13
+2024-01-02,East,Technology,Laptop,79500,13600,4
+2024-01-03,North,Technology,Monitor,22200,4250,3
+2024-01-04,South,Office Supplies,Printer Paper,6550,1560,26
+2024-01-05,West,Technology,Laptop,73500,12100,4
+2024-01-06,East,Furniture,Desk,28000,5300,2
+2024-01-07,North,Technology,Mouse,3350,790,16
+2024-01-08,South,Technology,Smartphone,53600,9200,4
+2024-01-09,West,Technology,Laptop,73500,11700,4
+2024-01-10,East,Office Supplies,Binder,1660,410,55
+2024-01-11,North,Technology,Mouse,3020,730,13
+2024-01-12,South,Furniture,Office Chair,17400,3400,4
+2024-01-13,West,Technology,Laptop,76600,13400,4
+2024-01-14,East,Technology,Smartphone,56400,9900,5
+2024-01-15,North,Technology,Laptop,77000,13100,4
+2024-01-16,South,Office Supplies,Notebook,4260,980,20
+2024-01-17,West,Technology,Mouse,3180,760,14
+2024-01-18,East,Technology,Laptop,78600,13500,4
+2024-01-19,North,Technology,Monitor,21700,4150,3
+2024-01-20,South,Office Supplies,Printer Paper,6460,1520,25
+2024-01-21,West,Technology,Laptop,74600,12400,4
+2024-01-22,East,Furniture,Desk,27300,5000,2
+2024-01-23,North,Technology,Mouse,3280,780,15
+2024-01-24,South,Technology,Smartphone,52600,9000,4
+2024-01-25,West,Technology,Laptop,75700,12900,4
+2024-01-26,East,Office Supplies,Binder,1720,440,65
+2024-01-27,North,Technology,Mouse,2980,720,12
+2024-01-28,South,Furniture,Office Chair,17800,3600,4
+2024-01-29,West,Technology,Laptop,75200,12700,4
+2024-01-30,East,Technology,Smartphone,54600,9500,5
+2024-01-31,North,Technology,Laptop,77800,13300,4
+2024-02-01,South,Office Supplies,Notebook,4380,1000,21
+2024-02-02,West,Technology,Mouse,3020,705,13
+2024-02-03,East,Technology,Laptop,79800,13700,4
+2024-02-04,North,Technology,Monitor,22300,4300,3
+2024-02-05,South,Office Supplies,Printer Paper,6580,1580,26
+2024-02-06,West,Technology,Laptop,73800,12200,4
+2024-02-07,East,Furniture,Desk,28200,5400,2
+2024-02-08,North,Technology,Mouse,3380,800,16
+2024-02-09,South,Technology,Smartphone,53800,9300,4
+2024-02-10,West,Technology,Laptop,73300,11600,4
+2024-02-11,East,Office Supplies,Binder,1680,420,57
+2024-02-12,North,Technology,Mouse,3040,740,13
+2024-02-13,South,Furniture,Office Chair,17500,3450,4
+2024-02-14,West,Technology,Laptop,76800,13500,4
+2024-02-15,East,Technology,Smartphone,56600,10000,5
+2024-02-16,North,Technology,Laptop,77200,13200,4
+2024-02-17,South,Office Supplies,Notebook,4280,990,20
+2024-02-18,West,Technology,Mouse,3200,770,14
+2024-02-19,East,Technology,Laptop,78800,13600,4
+2024-02-20,North,Technology,Monitor,21800,4200,3
+2024-02-21,South,Office Supplies,Printer Paper,6480,1540,25
+2024-02-22,West,Technology,Laptop,74800,12500,4
+2024-02-23,East,Furniture,Desk,27400,5050,2
+2024-02-24,North,Technology,Mouse,3300,790,15
+2024-02-25,South,Technology,Smartphone,52800,9100,4
+2024-02-26,West,Technology,Laptop,75900,13000,4
+2024-02-27,East,Office Supplies,Projector,95000,18000,1
+2024-02-28,North,Technology,Server Rack,125000,22000,1
+2024-02-29,South,Furniture,Office Table,29500,5200,2
+2024-03-01,West,Technology,Stapler,3100,720,20
+2024-03-02,East,Technology,Projector,92000,17500,1
+2024-03-03,North,Technology,Server Rack,128000,23000,1
+2024-03-04,South,Furniture,Office Table,29800,5300,2
+2024-03-05,West,Office Supplies,Stapler,3250,760,22
+2024-03-06,East,Technology,Projector,96000,18200,1
+2024-03-07,North,Office Supplies,Stapler,3050,710,19
+2024-03-08,South,Technology,Server Rack,130000,24000,1
+2024-03-09,West,Furniture,Office Table,29200,5150,2
+2024-03-10,East,Office Supplies,Stapler,3300,780,23
+2024-03-11,North,Technology,Projector,94000,17800,1
+2024-03-12,South,Office Supplies,Stapler,2950,690,18
+2024-03-13,West,Technology,Server Rack,122000,21500,1
+2024-03-14,East,Furniture,Office Table,28900,5050,2
+2024-03-15,North,Office Supplies,Stapler,3150,730,21
+2024-03-16,South,Technology,Projector,97000,18500,1
+2024-03-17,West,Office Supplies,Stapler,3400,800,24
+2024-03-18,East,Technology,Server Rack,126000,22500,1
+2024-03-19,North,Furniture,Office Table,30000,5400,2
+2024-03-20,South,Office Supplies,Stapler,3200,750,22
